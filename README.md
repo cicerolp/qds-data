@@ -1,4 +1,4 @@
-#### transfered to [https://bitbucket.org/cicerolp/qds-data]
+#### transferred to [https://bitbucket.org/cicerolp/qds-data]
 
 ### Related Repositores [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/cicerolp/qds) [![GitHub license](https://img.shields.io/github/license/cicerolp/qds.svg)](https://github.com/cicerolp/qds/blob/master/LICENSE)
 
